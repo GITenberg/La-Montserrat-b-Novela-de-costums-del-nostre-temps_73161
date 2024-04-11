@@ -1,0 +1,40 @@
+_repo: La-Montserrat-b-Novela-de-costums-del-nostre-temps_73161
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Monserdá de Maciá, Dolores
+    aliases:
+    - Macià, Dolors Monserdà de
+    - Monserda de Macia, Dolores
+    - De Maciá, Dolores Monserdá
+    - Maciá, Dolores Monserdá de
+    - Monserdà, Dolors
+    - Moncerdá de Maciá, Dolors
+    - Monserdà i Vidal, Dolors
+    birthdate: 1845
+    deathdate: 1919
+    gutenberg_agent_id: '56966'
+    url: http://www.gutenberg.org/2009/agents/56966
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Dolors_Monserd%C3%A0
+    - https://es.wikipedia.org/wiki/Dolors_Monserd%C3%A0
+    - https://ca.wikipedia.org/wiki/Dolors_Monserd%C3%A0_i_Vidal
+description: ''
+gutenberg_issued: '2024-03-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73161'
+language: ca
+pgterms:marc905: 20240311035743monserddem
+pgterms:marc906: '1893'
+pgterms:marc907: ES
+publication_note: '  $aBarcelona :$bImprempta La renaixensa, $c1893.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Catalan fiction'
+- !lcc 'PC'
+- GITenberg
+title: 'La Montserrat : $b Novela de costums del nostre temps'
+url: http://www.gutenberg.org/ebooks/73161
