@@ -1,5 +1,8 @@
 _repo: La-Montserrat-b-Novela-de-costums-del-nostre-temps_73161
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Monserdá de Maciá, Dolores
@@ -20,6 +23,8 @@ creator:
     - https://es.wikipedia.org/wiki/Dolors_Monserd%C3%A0
     - https://ca.wikipedia.org/wiki/Dolors_Monserd%C3%A0_i_Vidal
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73161#La-Montserrat-b-Novela-de-costums-del-nostre-temps
 gutenberg_issued: '2024-03-13'
 gutenberg_type: Text
 identifiers:
